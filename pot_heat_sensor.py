@@ -30,7 +30,7 @@ while True:
         blue.value(1)
         green.value(0)
         red.value(0)
-    if percent >= 80:
+    if percent >= 80 and percent < 95:
         blue.value(0)
         green.value(1)
         red.value(0)

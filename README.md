@@ -14,4 +14,4 @@ That said, I may eventually use this as a framework for a future project involvi
 
 ## Important
 
-Make sure you double-check the `pot_pin` and LED variables and either match your circuit to the pins I used, or modify the variables to suit your circuit design.
+Make sure you double-check the `pot_pin` and LED variables and either match your circuit to the pins I used, or modify the variables to suit your circuit design. If you'd like to see how I set up my breadboard (with some minor changes for the diagram), I created a [sketch](https://wokwi.com/projects/464420391627103233) on my Wokwi account to review.
